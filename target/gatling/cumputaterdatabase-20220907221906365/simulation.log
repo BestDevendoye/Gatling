@@ -1,0 +1,7 @@
+RUN	com.exempletest.CumputaterDatabase	cumputaterdatabase	1662589146365	 	3.6.1
+USER	CumputaterDatabase	START	1662589147358
+REQUEST		CumputaterDatabaseNew	1662589147386	1662589147759	OK	 
+REQUEST		CumputaterDatabaseNew Redirect 1	1662589147778	1662589147870	OK	 
+REQUEST		bootstrap.min.css	1662589147931	1662589148197	OK	 
+REQUEST		main.css	1662589147932	1662589148315	OK	 
+USER	CumputaterDatabase	END	1662589148318

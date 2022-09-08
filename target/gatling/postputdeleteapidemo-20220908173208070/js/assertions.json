@@ -1,0 +1,10 @@
+{
+  "simulation": "basicpage.PostPutDeleteAPIDemo",
+  "simulationId": "postputdeleteapidemo",
+  "start": 1662658328070,
+  "description": "",
+  "scenarios": ["Create User", "Update User", "Delete User"],
+  "assertions": [
+
+  ]
+}

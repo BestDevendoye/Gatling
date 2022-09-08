@@ -1,0 +1,10 @@
+{
+  "simulation": "basicpage.apiTest",
+  "simulationId": "apitest",
+  "start": 1662656839505,
+  "description": "",
+  "scenarios": ["demo get api"],
+  "assertions": [
+
+  ]
+}

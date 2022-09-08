@@ -1,0 +1,10 @@
+{
+  "simulation": "com.exempletest.CumputaterDatabase",
+  "simulationId": "cumputaterdatabase",
+  "start": 1662638785743,
+  "description": "",
+  "scenarios": ["CumputaterDatabase"],
+  "assertions": [
+
+  ]
+}
